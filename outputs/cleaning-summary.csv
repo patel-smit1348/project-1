@@ -1,0 +1,10 @@
+Check,Result
+Initial rows,503
+Final rows,499
+Missing quantity handled,3
+Missing city handled,8
+Missing payment mode handled,5
+Exact duplicates removed,3
+Invalid dates handled,1
+Negative quantity corrected,3
+Non-positive prices corrected,2
